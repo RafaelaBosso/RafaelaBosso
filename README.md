@@ -1,4 +1,10 @@
-## Hi there 👋
+Olá! Eu sou a Rafaela 👋
+
+🎓 Estudante de Gestão da Tecnologia da Informação, com interesse em desenvolvimento de software.
+
+💻 Atualmente, estou focada em aprender Python e aprofundar meus conhecimentos em programação.
+
+📚 Gosto de aprender coisas novas na área de tecnologia e usar o GitHub para acompanhar minha evolução nos estudos.
 
 <!--
 **RafaelaBosso/RafaelaBosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
