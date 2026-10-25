@@ -68,7 +68,7 @@
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/RafaelaBosso/gerenciador-de-tarefas-py">Gerenciador de Tarefas em Python</a></h3>
-      <p>Aplicação de terminal para cadastrar, priorizar, editar e concluir tarefas, salvando os dados em CSV.</p>
+      <p>Um gerenciador de tarefas executado pelo terminal, desenvolvido em Python, com persistência dos dados em um arquivo CSV.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-D9B5F5?style=flat-square&logo=python&logoColor=49345E" alt="Python" />
         <img src="https://img.shields.io/badge/CSV-B9E5D0?style=flat-square" alt="CSV" />
@@ -76,7 +76,7 @@
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/RafaelaBosso/gerenciador-de-tarefas-c">Gerenciador de Tarefas em C</a></h3>
-      <p>Versão para terminal que pratica estruturas de dados, manipulação de arquivos e persistência em CSV.</p>
+      <p>Um gerenciador de tarefas executado pelo terminal, desenvolvido em C, com persistência dos dados em um arquivo CSV.</p>
       <p>
         <img src="https://img.shields.io/badge/C-F2B5D4?style=flat-square&logo=c&logoColor=663D54" alt="Linguagem C" />
         <img src="https://img.shields.io/badge/CSV-B9E5D0?style=flat-square" alt="CSV" />
