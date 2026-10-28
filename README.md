@@ -64,6 +64,7 @@
       <p>
         <img src="https://img.shields.io/badge/Python-D9B5F5?style=flat-square&logo=python&logoColor=49345E" alt="Python" />
         <img src="https://img.shields.io/badge/Streamlit-F7C6D9?style=flat-square&logo=streamlit&logoColor=6B344B" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/SQLite-B9E5D0?style=flat-square" alt="SQLite" />
       </p>
     </td>
     <td width="33%" valign="top">
