@@ -64,6 +64,7 @@
       <p>
         <img src="https://img.shields.io/badge/Python-D9B5F5?style=flat-square&logo=python&logoColor=49345E" alt="Python" />
         <img src="https://img.shields.io/badge/Streamlit-F7C6D9?style=flat-square&logo=streamlit&logoColor=6B344B" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/SQLite-B9E5D0?style=flat-square" alt="SQLite" />
       </p>
     </td>
     <td width="33%" valign="top">
@@ -97,13 +98,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RafaelaBosso&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFF9FC&title_color=B95F98&icon_color=9675D8&text_color=65566F"
+    src="https://github-stats-extended.vercel.app/api?username=RafaelaBosso&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFF9FC&title_color=B95F98&icon_color=9675D8&text_color=65566F"
     alt="Rafaela Bosso's GitHub statistics"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaBosso&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=B95F98&text_color=65566F"
-    alt="Most-used programming languages across Rafaela Bosso's GitHub repositories"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelaBosso&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=B95F98&text_color=65566F"
+    alt="Most used programming languages in Rafaela Bosso's repositories"
     height="165"
   />
 </p>
