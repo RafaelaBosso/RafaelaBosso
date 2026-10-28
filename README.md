@@ -97,16 +97,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RafaelaBosso&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFF9FC&title_color=B95F98&icon_color=9675D8&text_color=65566F"
+    src="https://github-stats-extended.vercel.app/api?username=RafaelaBosso&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFF9FC&title_color=B95F98&icon_color=9675D8&text_color=65566F"
     alt="Estatísticas do GitHub de Rafaela Bosso"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaBosso&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=B95F98&text_color=65566F"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelaBosso&layout=compact&hide_border=true&bg_color=FFF9FC&title_color=B95F98&text_color=65566F"
     alt="Linguagens mais presentes nos repositórios de Rafaela Bosso"
     height="165"
   />
 </p>
+
 
 <p align="center">
   <em>Cada projeto é uma oportunidade de aprender algo novo e melhorar um pouco mais.</em>
